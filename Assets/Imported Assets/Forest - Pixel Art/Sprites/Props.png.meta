@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 72eb8001482581e44baad8d3f380ac68
+timeCreated: 1514612879
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Props_0
+    21300002: Props_1
+    21300004: Props_2
+    21300006: Props_3
+    21300008: Props_4
+    21300010: Props_5
+    21300012: Props_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Props_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 30}
+        - {x: -10, y: 19}
+        - {x: -10, y: 3}
+        - {x: -7, y: 2}
+        - {x: -1, y: 6}
+        - {x: 1, y: 6}
+        - {x: -1, y: 6}
+        - {x: -4, y: 2}
+        - {x: -4, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 30}
+    - name: Props_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+    - name: Props_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 25}
+        - {x: -3, y: 32}
+        - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 2}
+        - {x: 11, y: 4}
+    - name: Props_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 32}
+        - {x: -15, y: 32}
+        - {x: -16, y: 31}
+        - {x: -16, y: 12}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 15, y: 11}
+        - {x: 16, y: 14}
+        - {x: 16, y: 29}
+    - name: Props_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -16, y: 24}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 22}
+        - {x: 14, y: 25}
+    - name: Props_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 11}
+        - {x: -5, y: 6}
+        - {x: -5, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 8}
+        - {x: 6, y: 11}
+    - name: Props_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 6}
+        - {x: -4, y: 1}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
